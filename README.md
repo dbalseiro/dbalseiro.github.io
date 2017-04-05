@@ -85,12 +85,12 @@ Tareas de desarrollo del sistema de gestion comercial de Telefonica de Argentina
 ## Idiomas
 
 * **Inglés**
- * *Oral:* Muy Bueno
- * *Lectura:* Muy Bueno
- * *Escritura:* Muy Bueno
+  * *Oral:* Muy Bueno
+  * *Lectura:* Muy Bueno
+  * *Escritura:* Muy Bueno
 * **Portugués**
- * *Oral:* Bueno
- * *Lectura:* Muy Bueno
- * *Escritura:* Regular
+  * *Oral:* Bueno
+  * *Lectura:* Muy Bueno
+  * *Escritura:* Regular
 
  
