@@ -222,6 +222,24 @@ span.fuente-grande {
     content: "\2605\2605";
 }
 
+.version {
+    position: relative;
+	  float: right;
+	  margin-right: 10px;
+	  font-size: smaller;
+}
+
+.version.english:before {
+	content: "\1F1EC\1F1E7";
+}
+.version.espanol:before {
+	content: "\1F1EA\1F1F8";
+}
+.version:before {
+	margin-right: 3px;
+	vertical-align: middle;
+}
+
 
 @media all and (min-width: 602px) and (max-width: 800px) {
 	#headshot {
@@ -279,6 +297,9 @@ span.fuente-grande {
 @media print {
     #cv {
         width: 100%;
+    }
+    .version {
+        display: none;
     }
 }
 
