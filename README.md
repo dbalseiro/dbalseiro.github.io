@@ -38,8 +38,11 @@ Entusiasta de las nuevas tecnologías y programador empedernido. Siempre me encu
 Mi mayor satisfacción es finalizar los trabajos con éxito y ver que los clientes se benefician diariamente gracias al esfuerzo realizado.
 
 ## Experiencia Laboral
+### Desarrollador Freelance
+*Enero 2017 - Actualidad*
+
 ### Director en Syntagma S.A.
-*Noviembre 2007 - Actualidad*
+*Noviembre 2007 - Enero 2017*
 
 Desde Noviembre de 2007 he estado trabajando en varios proyectos para empresas de renombre con el rol de Gerente de Desarrollo:
 
