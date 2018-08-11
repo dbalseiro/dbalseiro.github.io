@@ -38,11 +38,14 @@ Entusiasta de las nuevas tecnologías y programador empedernido. Siempre me encu
 Mi mayor satisfacción es finalizar los trabajos con éxito y ver que los clientes se benefician diariamente gracias al esfuerzo realizado.
 
 ## Experiencia Laboral
-### Desarrollador Freelance
-*Enero 2017 - Actualidad*
+
+### Stack Builders
+*Agosto 2017 - Actualidad*
+
+Desde Agosto de 2017 he estado trabajando como developer en Stack Builders en varios proyectos para empresas en EE.UU, Trabajando en lenguajes funcionales como Haskell y ReasonML
 
 ### Director en Syntagma S.A.
-*Noviembre 2007 - Enero 2017*
+*Noviembre 2007 - Agosto 2017*
 
 Desde Noviembre de 2007 he estado trabajando en varios proyectos para empresas de renombre con el rol de Gerente de Desarrollo:
 
@@ -95,5 +98,3 @@ Tareas de desarrollo del sistema de gestion comercial de Telefonica de Argentina
   * *Oral:* Bueno
   * *Lectura:* Muy Bueno
   * *Escritura:* Regular
-
- 
